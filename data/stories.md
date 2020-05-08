@@ -12,10 +12,12 @@
   - utter_did_that_help
 * affirm
   - utter_happy
-
+  - utter_iamabot
+  
 ## sad path 2
 * greet
   - utter_greet
+  - utter_iamabot
 * mood_unhappy
   - utter_cheer_up
   - utter_did_that_help
